@@ -4,6 +4,7 @@ Any one can update their blogs in this Repo
 ### Kathik Mothiki
 I've produced some Technical Content in various platforms.
   - [**Medium**](https://karthik-mothiki.medium.com/)
+    - [Valuable Deets for every Student](https://karthik-mothiki.medium.com/valuable-deets-for-every-student-2cd5af54bf50)
     - [A Brief Prelude on Dark Web](https://karthik-mothiki.medium.com/a-brief-prelude-on-dark-web-19b139ea8af0)
     - [PROS AND CONS OF ROBOTICS](https://medium.com/robotics-club-sastra/pros-and-cons-of-robotics-c2daa96a5d27)
     - [Atom-Universe Paradox](https://medium.com/robotics-club-sastra/atom-universe-paradox-263755e585a6)
@@ -22,5 +23,13 @@ I've produced some Technical Content in various platforms.
 ### Datla Mukesh Varma
   - [**Medium**](https://mukesh-varma.medium.com/)
     - [Eloquent about Artificial Intelligence !!](https://mukesh-varma.medium.com/eloquent-about-artificial-intelligence-1a2b0a2d0a05)
+   
+   
+  ### Shashank Hara Sridhar
+  - [**Medium**](https://hshashank06.medium.com/)
+    - [UNRAVELLING THE WORLD OF AI](https://medium.com/robotics-club-sastra/unraveling-the-world-of-ai-9e50a7790cef)
+    - [EMBARK ON A JOURNEY TO ‘IoT’ (INTERNET OF THINGS)](https://medium.com/robotics-club-sastra/embark-on-a-journey-to-iot-internet-of-things-44c1b3a9edd)
+    - [DATA EVOLUTION AND THE CLOUD](https://medium.com/robotics-club-sastra/data-evolution-and-the-cloud-e60e280de07c)
+    - [DATA EVOLUTION AND THE CLOUD -II](https://hshashank06.medium.com/data-evolution-and-the-cloud-ii-57d7e6f4b407)
 
 
