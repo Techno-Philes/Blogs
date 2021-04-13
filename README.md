@@ -17,3 +17,10 @@ I've produced some Technical Content in various platforms.
     - [TOP 5 INNOVATIONS OF THE MONTH IN AI](https://aitechweb.com/top-5-innovations-of-the-month-in-ai/)
     - [Top 10 Artificial Intelligence Trends In 2020 That Everyone Should Know](https://aitechweb.com/top-10-artificial-intelligence-trends-in-2020-that-everyone-should-know/)
     - [How Artificial Intelligence Can Help To Fight Against COVID-19](https://aitechweb.com/how-artificial-intelligence-can-help-to-fight-against-covid-19/)
+
+
+### Datla Mukesh Varma
+  - [**Medium**](https://mukesh-varma.medium.com/)
+    - [Eloquent about Artificial Intelligence !!](https://mukesh-varma.medium.com/eloquent-about-artificial-intelligence-1a2b0a2d0a05)
+
+
