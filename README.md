@@ -4,6 +4,7 @@ Any one can update their blogs in this Repo
 ### Kathik Mothiki
 I've produced some Technical Content in various platforms.
   - [**Medium**](https://karthik-mothiki.medium.com/)
+    - [The Booming Realities (AR/VR)](https://karthik-mothiki.medium.com/the-booming-realities-ar-vr-6ab3407932a0)
     - [Valuable Deets for every Student](https://karthik-mothiki.medium.com/valuable-deets-for-every-student-2cd5af54bf50)
     - [A Brief Prelude on Dark Web](https://karthik-mothiki.medium.com/a-brief-prelude-on-dark-web-19b139ea8af0)
     - [PROS AND CONS OF ROBOTICS](https://medium.com/robotics-club-sastra/pros-and-cons-of-robotics-c2daa96a5d27)
