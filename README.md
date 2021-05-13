@@ -34,3 +34,9 @@ I've produced some Technical Content in various platforms.
     - [DATA EVOLUTION AND THE CLOUD -II](https://hshashank06.medium.com/data-evolution-and-the-cloud-ii-57d7e6f4b407)
 
 
+![GitHub forks](https://img.shields.io/github/forks/KarthikMothiki/Music-Player-GUI?logo=Forks&style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/KarthikMothiki/Music-Player-GUI?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/KarthikMothiki/Music-Player-GUI?logo=Watchers&?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/KarthikMothiki/Music-Player-GUI?style=plastic&logo=appveyor)
+![Visits](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=KarthikMothiki&repo=Music-Player-GUI-visitors-badge&countColorcountColor&countColor=%237B1E7A?style=social)
+
