@@ -3,6 +3,10 @@ Any one can update their blogs in this Repo
 
 ### Kathik Mothiki
 I've produced some Technical Content in various platforms.
+
+  -  - [**Hash Node**](https://karthikmothiki.hashnode.dev/)
+    - [Best 50 tips for Data Science](https://karthikmothiki.hashnode.dev/best-50-tips-for-data-science)
+    - 
   - [**Medium**](https://karthik-mothiki.medium.com/)
     - [The Booming Realities (AR/VR)](https://karthik-mothiki.medium.com/the-booming-realities-ar-vr-6ab3407932a0)
     - [Valuable Deets for every Student](https://karthik-mothiki.medium.com/valuable-deets-for-every-student-2cd5af54bf50)
@@ -12,6 +16,7 @@ I've produced some Technical Content in various platforms.
     - [THE WORLD OF ARTIFICIAL INTELLIGENCE](https://medium.com/robotics-club-sastra/the-world-of-artificial-intelligence-f709df7bbbd5)
     - [Top 5 Innovations of 2020](https://medium.com/robotics-club-sastra/have-you-ever-been-filled-with-amazement-that-every-year-many-innovations-and-startups-are-coming-8640139c367d)
     - [MICROSOFT AZURE - TEAM DATA SCIENCE PROCESS (TDSP)](https://medium.com/robotics-club-sastra/microsoft-azure-ce32cc10b2f9)
+    - 
   - [**AI Tech Web**](https://aitechweb.com/author/karthik/)
     - [How Artificial Intelligence Can Help In Business?](https://aitechweb.com/how-artificial-intelligence-can-help-in-business/)
     - [Are You Ready For The Revolution Of Data Science?](https://aitechweb.com/are-you-ready-for-the-revolution-of-data-science/)
